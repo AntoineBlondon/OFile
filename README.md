@@ -29,7 +29,7 @@ To use `OFile` in your project, follow these steps:
 Here's a quick example to get you started:
 
 ```java
-import kodia.kodia.OFile;
+import path.to.OFile;
 
 public class YourPluginClass {
 
